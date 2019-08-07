@@ -22,7 +22,6 @@ D:\Github\Hangfire.Oracle\Hangfire.Oracle\Hangfire.Oracle\bin\Release\nl\Hangfir
 D:\Github\Hangfire.Oracle\Hangfire.Oracle\Hangfire.Oracle\bin\Release\pt-BR\Hangfire.Core.resources.dll
 D:\Github\Hangfire.Oracle\Hangfire.Oracle\Hangfire.Oracle\bin\Release\zh\Hangfire.Core.resources.dll
 D:\Github\Hangfire.Oracle\Hangfire.Oracle\Hangfire.Oracle\bin\Release\zh-TW\Hangfire.Core.resources.dll
-D:\Github\Hangfire.Oracle\Hangfire.Oracle\Hangfire.Oracle\obj\Release\Hangfire.Oracle.csprojAssemblyReference.cache
 D:\Github\Hangfire.Oracle\Hangfire.Oracle\Hangfire.Oracle\obj\Release\Hangfire.Oracle.csproj.CoreCompileInputs.cache
 D:\Github\Hangfire.Oracle\Hangfire.Oracle\Hangfire.Oracle\obj\Release\Hangfire.Oracle.csproj.CopyComplete
 D:\Github\Hangfire.Oracle\Hangfire.Oracle\Hangfire.Oracle\obj\Release\Hangfire.Oracle.dll
