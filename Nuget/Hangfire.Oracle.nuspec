@@ -28,6 +28,6 @@
         </dependencies>
     </metadata>
     <files>
-        <file src="..\..\Hangfire.Oracle\bin\Release\Hangfire.Oracle.dll" target="lib\net40\Hangfire.Oracle.dll" />
+        <file src="..\..\Hangfire.Oracle\bin\Release\Hangfire.Oracle.dll" target="lib\net461\Hangfire.Oracle.dll" />
     </files>
 </package>
